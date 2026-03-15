@@ -65,3 +65,16 @@ Creating KPIs and business metrics
 Data visualization best practices
 Using slicers and filters for dynamic analysis
 Converting raw data into actionable insights
+
+=> Business Impact 
+Example:
+The insights from this dashboard can help Blinkit:
+Identify high-performing outlet types
+Optimize inventory for high-selling product categories
+Focus expansion in high-revenue city tiers
+Improve product strategy based on customer preferences
+
+=> Screenshorts / Demo 
+Shows what the dashboard look like :- ()
+Example : [Dashboard Preview]- ()
+
