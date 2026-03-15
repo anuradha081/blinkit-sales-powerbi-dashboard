@@ -75,6 +75,6 @@ Focus expansion in high-revenue city tiers
 Improve product strategy based on customer preferences
 
 => Screenshorts / Demo 
-Shows what the dashboard look like :- ()
+Shows what the dashboard look like :- (blinkit_sales_dashboard.png)
 Example : [Dashboard Preview]- ()
 
