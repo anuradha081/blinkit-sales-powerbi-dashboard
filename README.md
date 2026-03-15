@@ -76,5 +76,5 @@ Improve product strategy based on customer preferences
 
 => Screenshorts / Demo 
 Shows what the dashboard look like :- (blinkit_sales_dashboard.png)
-Example : [Dashboard Preview]- ()
+Example : [Dashboard Preview]- (https://github.com/anuradha081/blinkit-sales-powerbi-dashboard/blob/main/blinkit_sales_dashboard.png)
 
