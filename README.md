@@ -17,7 +17,7 @@ Number of Items: 4K
 Average Rating: 3.93
 These KPIs help stakeholders quickly understand overall business performance.
 
-=> Dashboard Insights
+=> Dashboard Insights:
 
 1. Sales by Outlet Establishment Year
 Shows how total sales vary depending on the year an outlet was established, helping analyze growth trends.
@@ -43,21 +43,23 @@ Average Sales
 Average Rating
 Item Visibility
 
-=> Features of the Dashboard
+=> Features of the Dashboard : 
+
 Interactive filters and slicers
 Dynamic visualizations
 Business KPI cards
 Comparative analysis across outlet types
 User-friendly layout for business decision making
 
-=> Tools & Technologies Used
+=> Tools & Technologies Used : 
+
 Power BI
 Data Visualization
 DAX (Data Analysis Expressions)
 Data Cleaning & Transformation
 Microsoft Excel / CSV Dataset
 
-=> Learning Outcomes
+=> Learning Outcomes :
 
 Through this project I learned:
 Building interactive dashboards in Power BI
@@ -66,7 +68,8 @@ Data visualization best practices
 Using slicers and filters for dynamic analysis
 Converting raw data into actionable insights
 
-=> Business Impact 
+=> Business Impact : 
+
 Example:
 The insights from this dashboard can help Blinkit:
 Identify high-performing outlet types
